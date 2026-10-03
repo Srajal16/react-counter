@@ -8,6 +8,7 @@ function App() {
     <>
 
       <i>Made by Srajal Sawner.</i>
+      <button>Click me if you are feeling lucky!</button>
      
             
     </>
