@@ -7,7 +7,7 @@ function App() {
   return (
     <>
 
-      <i>Made by Srajal Sawner</i>
+      <i>Made by Srajal Sawner.</i>
      
             
     </>
